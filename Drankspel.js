@@ -1,5 +1,3 @@
-Drankspel JavaScript
-
 // JavaScript Code
 
 // Wrap the code inside DOMContentLoaded to ensure the DOM is fully loaded
