@@ -1,0 +1,78 @@
+/* CSS Styles */
+
+/* Set the background color and text color */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #7d0f0f; /* Dark red/maroon */
+    color: #baf1ff; /* Updated text color */
+}
+
+/* Style the game container */
+#game {
+    margin-top: 50px;
+}
+
+/* Center the card container */
+#card-container {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+/* Style the card display */
+#card-display {
+    width: 400px;
+    height: 250px;
+    background-color: #161a66; /* Dark blue */
+    border: 4px solid #baf1ff; /* Updated border color */
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 28px;
+    margin: 0 auto;
+    padding: 10px;
+    text-align: center;
+    color: #ffffff; /* White text inside the card */
+}
+
+/* Style the remaining cards text */
+#remaining-cards {
+    font-size: 20px;
+    margin-bottom: 20px;
+    color: #baf1ff; /* Updated text color */
+}
+
+/* Style the buttons container */
+#buttons {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 20px;
+}
+
+/* Style the buttons */
+#draw-button, #shuffle-button {
+    padding: 15px 30px;
+    font-size: 20px;
+    cursor: pointer;
+    border: 2px solid #baf1ff; /* Updated border color */
+    border-radius: 5px;
+    background-color: #161a66; /* Dark blue */
+    color: #baf1ff; /* Updated text color */
+}
+
+/* Button hover effect */
+#draw-button:hover, #shuffle-button:hover {
+    background-color: #1e238f; /* Slightly lighter blue */
+}
+
+/* Disabled button style */
+#draw-button:disabled {
+    background-color: #cccccc;
+    color: #666666;
+    cursor: not-allowed;
+    border: 2px solid #cccccc; /* Match border to disabled color */
+}
