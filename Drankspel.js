@@ -104,10 +104,9 @@ document.addEventListener('DOMContentLoaded', function() {
 	'drink als je in de laatste 3 maanden gekotst hebt',
 	'wijs aan, wie het preutst is',
 	'drink als je ooit hebt gekotst door een ander middel dan alcohol',
-	'drink als je wel eens onder invloed gewerkt hebt', 	'doe je ogen dicht, de groep moet 1 iemand uitkiezen om je te zoenen,  gebruik spin the wheel website om de bepalen waar (voorhoofd, lippen, wang, neck etc), als je goed raad wie de persoon is moet de groep drinken, als je het fout hebt moeten jij en de gekozen persoon drinken',
-	'drink als je gelooft in god'
-	'drink als je in de laatste 10 minuten op je telefoon hebt gezeten',
-	'zoen franka of je moet drinken',
+	'drink als je wel eens onder invloed gewerkt hebt',	'doe je ogen dicht, de groep moet 1 iemand uitkiezen om je te zoenen,  gebruik spin the wheel website om de bepalen waar (voorhoofd, lippen, wang, neck etc), als je goed raad wie de persoon is moet de groep drinken, als je het fout hebt moeten jij en de gekozen persoon drinken',
+	'drink als je gelooft in god',
+	'drink als je in de laatste 10 minuten op je telefoon hebt gezeten', 'zoen franka of je moet drinken',
 	'neem een slok en geef hem door naar de persoon die door de groep gekozen wordt',
 	'wijs aan, wie zijn/haar shirt moet uittrekken',
 	'in welk jaar vond je jezelf het kutst? drink als dat in de laatste 3 jaar was',
