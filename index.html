@@ -14,17 +14,19 @@
         <div id="card-container">
             <div id="card-display">Trek een kaart!</div>
         </div>
-        <p id="remaining-cards">Kaarten over: 13</p>
+        <p id="remaining-cards">Kaarten over: 100</p> <!-- Pas dit aan naar het aantal kaarten in je deck -->
         <div id="buttons">
             <button id="draw-button">Trek kaart</button>
+            <button id="return-button" disabled>Terug stoppen</button> <!-- Nieuwe Knop -->
             <button id="shuffle-button">Schudden</button>
         </div>
     </div>
 
     <!-- Confirmation Modal -->
-    <div id="confirmation-modal" class="modal">
+    <div id="confirmation-modal" class="modal" role="dialog" aria-labelledby="modal-title" aria-modal="true">
         <div class="modal-content">
-            <p>Weet je het zeker?</p>
+            <h2 id="modal-title">Bevestiging</h2>
+            <p>Weet je het zeker dat je het deck wilt schudden?</p>
             <div class="modal-buttons">
                 <button id="confirm-yes">Ja</button>
                 <button id="confirm-no">Nee</button>
