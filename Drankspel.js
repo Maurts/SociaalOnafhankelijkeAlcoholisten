@@ -21,7 +21,6 @@ document.addEventListener('DOMContentLoaded', function() {
     function initializeDeck() {
         // Reset the deck with Dutch card names
         deck = [
-           Drankspel vragen (code)
 
 	'drink als je ooit een crush hebt gehad op iemand in dit gezelschap', 'drink als je ooit gelogen hebt over je leeftijd om iemand te versieren', 
 	'laat de groep door je laatste 20 fotos heen scrollen of neem drie slokken', 'gedraag je als een kip totdat je weer aan de beurt bent of at je glas',
@@ -50,7 +49,7 @@ document.addEventListener('DOMContentLoaded', function() {
 	'drink als je ooit een ongemakkelijke/cosmetische operatie hebt gehad',
 	'laat de groep iemand kiezen die bij je/waarbij je op schoot moet zitten',
 	'iedereen pakt zijn telefoon de speler die de kaart pakt moet de persoon uit de groep appen die hij/zij het aantrekkelijkst vind',
-	'doe je ogen dicht, de groep kiest iemand uit de groep, die persoon moet zonder te praten jou duidelijk maken wie het is. als je het goed raad moet de rest van de groep 2 keer drinken als je het fout hebt moeten jullie 1 keer drinken',
+	'doe je ogen dicht, de groep kiest iemand uit de groep, die persoon moet zonder te praten jou duidelijk maken wie het is, als je het goed raad moet de rest van de groep 2 keer drinken als je het fout hebt moeten jullie 1 keer drinken',
 	'doe je ogen dicht, de groep laat je iets aanraken naar keuze als je goed raad wat het is drinkt de groep 2 keer, heb je het fout drink 1 keer',
 	'drink als er een barst in je telefoon zit',
 	'iedereen bedenkt een nieuwe kaart voor het spel, daarna stemt iedereen op zijn favoriet (niet je eigen natuurlijk) iedereen behalve de winnaar moet 2 keer drinken',
@@ -105,7 +104,7 @@ document.addEventListener('DOMContentLoaded', function() {
 	'drink als je in de laatste 3 maanden gekotst hebt',
 	'wijs aan, wie het preutst is',
 	'drink als je ooit hebt gekotst door een ander middel dan alcohol',
-	'drink als je wel eens onder invloed gewerkt hebt', 	'doe je ogen dicht, de groep moet 1 iemand uitkiezen om je te zoenen,  gebruik spin the wheel website om de bepalen waar (voorhoofd, lippen, wang, neck etc). als je goed raad wie de persoon is moet de groep drinken, als je het fout hebt moeten jij en de gekozen persoon drinken',
+	'drink als je wel eens onder invloed gewerkt hebt', 	'doe je ogen dicht, de groep moet 1 iemand uitkiezen om je te zoenen,  gebruik spin the wheel website om de bepalen waar (voorhoofd, lippen, wang, neck etc), als je goed raad wie de persoon is moet de groep drinken, als je het fout hebt moeten jij en de gekozen persoon drinken',
 	'drink als je gelooft in god'
 	'drink als je in de laatste 10 minuten op je telefoon hebt gezeten',
 	'zoen franka of je moet drinken',
@@ -117,8 +116,8 @@ document.addEventListener('DOMContentLoaded', function() {
 	'drink als 2 of meer kledingstukken in je outfit van zara zijn',
 	'wie zou je sneller doen de persoon links van je of de persoon rechts van je?',
 	'wijs aan, wie heeft gezoend met de lelijkste persoon',
-	'iedereen behalve jij in de groep doet zijn ogen dicht, tik de persoon aan die je het liefst zou doen'.
-	'drink 1 keer als je iemand rond dezelfde leeftijd kent met dezelfde naam, drink 2 keer als jij de betere versie bent'.
+	'iedereen behalve jij in de groep doet zijn ogen dicht, tik de persoon aan die je het liefst zou doen',
+	'drink 1 keer als je iemand rond dezelfde leeftijd kent met dezelfde naam, drink 2 keer als jij de betere versie bent',
 	'drink als je in de laatste 7 dagen iets hebt besteld',
 	'drink 1 keer voor elk nike kledingstuk dat je aan hebt',
 	'kies een iemand van het andere geslacht, doe een potje steen papier schaar, iedereen van het geslacht van de verliezer moet drinken',
@@ -130,10 +129,10 @@ document.addEventListener('DOMContentLoaded', function() {
 	'wat vind je het meest aantrekkelijk aan de persoon links van je',
 	'laat de groep iemand van het andere geslacht kiezen, neem met die persoon een foto met jullie voorhoofden tegen elkaar en plaats het op privé verhaal',
 	'de groep kiest iemand uit de groep voor je uit, vertel hoe jullie eerste date er uit zou zien, laat de persoon van het andere geslacht je plan beoordelen als je lager dan een 6 hebt moet je drinken',
-	'drink als je wel eens hebt gedroomd over iemand uit de vriendengroep'.
+	'drink als je wel eens hebt gedroomd over iemand uit de vriendengroep',
 	'zeg de achternaam van iedereen uit de groep, drink 1 keer voor elke fout die je maakt',
 	'laat de groep iemand kiezen waar jij van moet vertellen wat je het aantrekkelijkst vind aan die persoon',
-	'steek je hand op als je in de laatste 2 maanden niet gezoend hebt, is het getal even? maak dan koppels en zoen elkaar. is het getal oneven? moeten jullie drinken',
+	'steek je hand op als je in de laatste 2 maanden niet gezoend hebt, is het getal even? maak dan koppels en zoen elkaar, is het getal oneven? moeten jullie drinken',
 	'iedereen met een voornaam die begint met dezelfde letter als de persoon die deze kaart voorleest moet drinken',
 	'laat de groep je laatst geopende notitie zien of drink 2 keer',
 	'steel een kledingstuk van iemand naar keuze',
