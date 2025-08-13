@@ -198,7 +198,8 @@ b/a = 0 slokken/3 slokken`,
             'speel een potje stef stuntpiloot totdat iemand twee keer heeft verloren',
             'de persoon die het verste weg woont moet drinken',
             'geef een knuffel aan iemand die niet aan het spel mee doet',
-            'drink als je denkt dat iemand uit de groep je leuk vindt'
+            'drink als je denkt dat iemand uit de groep je leuk vindt',
+            'drink als je iemand uit de groep niet mag'
             // Voeg meer kaarten toe indien nodig
         ];
 
