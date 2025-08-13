@@ -304,7 +304,7 @@ b/a = 0 slokken/3 slokken`,
     // Functie om de cooldown te starten
     function startCooldown() {
         const drawButton = document.getElementById('draw-button');
-        const cooldownTime = 10; // Cooldown tijd in seconden
+        const cooldownTime = 5; // Cooldown tijd in seconden
         let remainingTime = cooldownTime;
 
         // Schakel de "Trek kaart" knop uit
